@@ -3,6 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+/*
+* Adding a comment here to test out fetching and merging
+*/
 package midtermexam_versiona_extensioncode;
 
 /**
